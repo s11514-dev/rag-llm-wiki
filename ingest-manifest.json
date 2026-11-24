@@ -1,0 +1,42 @@
+[
+  {
+    "source_id": "S1",
+    "source_url": "https://arxiv.org/abs/2005.11401",
+    "date_accessed": "2026-11-24",
+    "method": "LLM-assisted read, summarize, tag, and cross-link",
+    "source_summary": "source-notes/01-lewis-rag-paper.md",
+    "status": "summary created; concept mapping checked"
+  },
+  {
+    "source_id": "S2",
+    "source_url": "https://www.ibm.com/think/topics/retrieval-augmented-generation",
+    "date_accessed": "2026-11-24",
+    "method": "LLM-assisted read, summarize, tag, and cross-link",
+    "source_summary": "source-notes/02-ibm-rag.md",
+    "status": "summary created; concept mapping checked"
+  },
+  {
+    "source_id": "S3",
+    "source_url": "https://aws.amazon.com/what-is/retrieval-augmented-generation/",
+    "date_accessed": "2026-11-24",
+    "method": "LLM-assisted read, summarize, tag, and cross-link",
+    "source_summary": "source-notes/03-aws-rag.md",
+    "status": "summary created; concept mapping checked"
+  },
+  {
+    "source_id": "S4",
+    "source_url": "https://learn.microsoft.com/en-us/azure/foundry/concepts/retrieval-augmented-generation",
+    "date_accessed": "2026-11-24",
+    "method": "LLM-assisted read, summarize, tag, and cross-link",
+    "source_summary": "source-notes/04-microsoft-rag.md",
+    "status": "summary created; concept mapping checked"
+  },
+  {
+    "source_id": "S5",
+    "source_url": "https://cloud.google.com/use-cases/retrieval-augmented-generation",
+    "date_accessed": "2026-11-24",
+    "method": "LLM-assisted read, summarize, tag, and cross-link",
+    "source_summary": "source-notes/05-google-cloud-rag.md",
+    "status": "summary created; concept mapping checked"
+  }
+]
